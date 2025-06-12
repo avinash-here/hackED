@@ -1,0 +1,352 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anveshan - Hackathon</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Navigation Bar -->
+    <nav class="navbar">
+        <div class="logo">Anveshan</div>
+        <div class="edition-btn">JUNE EDITION</div>
+    </nav>
+
+    <!-- Admin Login Modal -->
+    <div id="adminModal" class="modal">
+        <div class="modal-content">
+            <span class="close-modal">&times;</span>
+            <h2>Admin Login</h2>
+            <form id="adminLoginForm">
+                <div class="form-group">
+                    <label for="adminId">ID</label>
+                    <input type="text" id="adminId" required>
+                </div>
+                <div class="form-group">
+                    <label for="adminPassword">Password</label>
+                    <input type="password" id="adminPassword" required>
+                </div>
+                <button type="submit" class="submit-btn">Login</button>
+            </form>
+        </div>
+    </div>
+
+    <!-- Header Section -->
+    <header class="header">
+        <div class="header-image">
+            <img src="poster_.png" alt="Anveshan Hackathon Poster" class="poster-image">
+        </div>
+    </header>
+
+    <!-- Schedule Section -->
+    <section id="schedule" class="section">
+        <h2>Schedule</h2>
+        <div class="table-container">
+            <table>
+                <thead>
+                    <tr>
+                        <th>Date & Time</th>
+                        <th>Session/Activity Name</th>
+                        <th>Where to Join</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>June 13, 2025 8:00 pm</td>
+                        <td>Hackaton Kickstart</td>
+                        <td><a href="#" class="zoom-link">Join Here</a></td>
+                    </tr>
+                    <tr>
+                        <td>June 13, 2025 9:30 pm</td>
+                        <td>Call addressing any concerns wrt Hackathon</td>
+                        <td><a href="#" class="zoom-link">Join Here</a></td>
+                    </tr>
+                    <tr>
+                        <td>June 14, 2025 3:00 pm</td>
+                        <td>Activity & Games - I</td>
+                        <td><a href="#" class="zoom-link">Join Here</a></td>
+                    </tr>
+                    <tr>
+                        <td>June 15, 2025 12:00 am</td>
+                        <td>Activity & Games - II</td>
+                        <td><a href="#" class="zoom-link">Join Here</a></td>
+                    </tr>
+                    <tr>
+                        <td>June 15, 2025 2:00 pm to 8:00 pm</td>
+                        <td>Project Submission Window</td>
+                        <td>-</td>
+                    </tr>
+                    <tr>
+                        <td>June 15, 2025 8:00 pm</td>
+                        <td>Closure</td>
+                        <td>-</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </section>
+
+    <!-- Important Links Section -->
+    <section id="links" class="section">
+        <h2>Important Links</h2>
+        <div class="links-container">
+            <div class="link-card">
+                <p>Here are the problem statements you need to deal with in this hackathon.</p>
+                <a href="#" class="link-button">Problem Statement Links</a>
+            </div>
+            <div class="link-card">
+                <p>Done with the project. Great. Submit it here.</p>
+                <a href="#" class="link-button">Final Submission Form</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Prizes Section -->
+    <section id="prizes" class="section">
+        <h2>Prizes Details</h2>
+        <div class="prizes-container">
+            <div class="prize-group">
+                <h3>Main Hackathon Prizes</h3>
+                <ul>
+                    <li><strong>Winners</strong> (3 winners: SD, DS): ₹5000 worth gift card per team member</li>
+                    <li><strong>Runners-up</strong> (3 winners: SD, DS): ₹3000 worth gift card per team member</li>
+                </ul>
+            </div>
+
+            <div class="prize-group">
+                <h3>Fun Activities and Games</h3>
+                <ul>
+                    <li>It's a surprise. But there will be some prizes here as well 🎉</li>
+                </ul>
+            </div>
+        </div>
+    </section>
+
+    <!-- Judging Criteria Section -->
+    <section id="judging" class="section">
+        <h2>Judging Criteria</h2>
+        <div class="judging-container">
+            <p>Your work will be evaluated based on the following factors:</p>
+
+            <div class="criteria-group">
+                <h3>Relevance:</h3>
+                <ul>
+                    <li>How well does your solution address the problem?</li>
+                    <li>How impactful is your approach?</li>
+                </ul>
+            </div>
+
+            <div class="criteria-group">
+                <h3>Experience, Design, and Quality:</h3>
+                <ul>
+                    <li>SD: Visual appeal and usability.</li>
+                    <li>DS: Quality and clarity of data visualizations.</li>
+                </ul>
+            </div>
+
+            <div class="criteria-group">
+                <h3>Originality & Creativity:</h3>
+                <ul>
+                    <li>Does your solution offer a fresh perspective?</li>
+                    <li>Does it introduce an innovative approach?</li>
+                </ul>
+            </div>
+
+            <div class="criteria-group">
+                <h3>Presentation:</h3>
+                <ul>
+                    <li>How well is the project presented?</li>
+                </ul>
+            </div>
+        </div>
+    </section>
+
+    <!-- Teams Section -->
+    <section id="teams" class="section">
+        <h2>Registered Teams</h2>
+        <div class="table-container">
+            <table>
+                <thead>
+                    <tr>
+                        <th>Team Name</th>
+                        <th>Team Members</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>CodeCrafters</td>
+                        <td>John Doe, Jane Smith, Mike Johnson</td>
+                    </tr>
+                    <tr>
+                        <td>TechTitans</td>
+                        <td>Sarah Wilson, Alex Brown, Chris Lee</td>
+                    </tr>
+                    <tr>
+                        <td>InnovateX</td>
+                        <td>Emily Davis, David Miller, Lisa Chen</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </section>
+
+    <!-- FAQ Section -->
+    <section id="faq" class="section">
+        <h2>Frequently Asked Questions</h2>
+        <div class="faq-container">
+            <div class="faq-item">
+                <div class="faq-question">
+                    <h3>How should we divide our work?</h3>
+                    <span class="faq-toggle">+</span>
+                </div>
+                <div class="faq-answer">
+                    <p>As a team, start by identifying each member's strengths. A simple example : If someone excels in backend development, assign them backend tasks. Likewise, let the frontend expert handle frontend work. For junior members, provide guidance by giving them manageable tasks that help them learn. Additionally, designate a team leader to coordinate efforts and keep the project on track. This approach ensures that responsibilities are distributed effectively, and everyone gets a chance to contribute.</p>
+                </div>
+            </div>
+
+            <!-- <div class="faq-item">
+                <div class="faq-question">
+                    <h3>What is the judging criteria?</h3>
+                    <span class="faq-toggle">+</span>
+                </div>
+                <div class="faq-answer">
+                    <p>Your work will be evaluated based on the following factors:</p>
+                    <h4>Relevance:</h4>
+                    <ul>
+                        <li>How well does your solution address the problem?</li>
+                        <li>How impactful is your approach?</li>
+                    </ul>
+                    <h4>Experience, Design, and Quality:</h4>
+                    <ul>
+                        <li>SD: Visual appeal and usability.</li>
+                        <li>DS: Quality and clarity of data visualizations.</li>
+                    </ul>
+                    <h4>Originality & Creativity:</h4>
+                    <ul>
+                        <li>Does your solution offer a fresh perspective?</li>
+                        <li>Does it introduce an innovative approach?</li>
+                    </ul>
+                    <h4>Presentation:</h4>
+                    <ul>
+                        <li>How well is the project presented?</li>
+                    </ul>
+                </div>
+            </div> -->
+
+            <div class="faq-item">
+                <div class="faq-question">
+                    <h3>Is this hackathon optional or mandatory?</h3>
+                    <span class="faq-toggle">+</span>
+                </div>
+                <div class="faq-answer">
+                    <p>Participation is optional but highly recommended.</p>
+                </div>
+            </div>
+
+            <div class="faq-item">
+                <div class="faq-question">
+                    <h3>I did not register for the hackathon. Can I still join?</h3>
+                    <span class="faq-toggle">+</span>
+                </div>
+                <div class="faq-answer">
+                    <p>No, you can't. If any participant participates completes the work without being registered, it will still be considered void. Registration is mandatory. We recommend that you register next time. Better luck next time!</p>
+                </div>
+            </div>
+
+            <div class="faq-item">
+                <div class="faq-question">
+                    <h3>How do I select and submit my project for review?</h3>
+                    <span class="faq-toggle">+</span>
+                </div>
+                <div class="faq-answer">
+                    <p>Submit your project using the designated form <form-link-will-be-updated-here-once-submission-window-opens>, which will be active starting at 02:00 PM on 15th June, 2025 till 08:00 PM on 15th June 2025. Ensure you provide the following details:</p>
+                    <ul>
+                        <li>Team Name (You will have to select your team name from the options)</li>
+                        <li>GitHub Repository Link: Must be named after your team (case-sensitive)</li>
+                        <li>Project Selected (You will have to select your project name from the options)</li>
+                        <li>Presentation Video Link: You and your team member will present your project, record the presentation, and share the recording link. The video can be uploaded to either Google Drive or YouTube and must be accessible for public viewing (Tip: check if it's accessible in incognito mode). The recording should be under 8 minutes long.</li>
+                        <li>Team Captain's Contact Number</li>
+                    </ul>
+                    <p>Make sure all details are accurate to complete the submission process successfully.</p>
+                </div>
+            </div>
+
+            <!-- <div class="faq-item">
+                <div class="faq-question">
+                    <h3>What will the winners receive in this hackathon?</h3>
+                    <span class="faq-toggle">+</span>
+                </div>
+                <div class="faq-answer">
+                    <h4>Main Hackathon Prizes</h4>
+                    <ul>
+                        <li><strong>Winners</strong> (3 winners: SD, DS): ₹5000 worth gift card per team member</li>
+                        <li><strong>Runners-up</strong> (3 winners: SD, DS): ₹3000 worth gift card per team member</li>
+                    </ul>
+                    <h4>Fun Activities and Games</h4>
+                    <p>It's a surprise. But there will be some prizes here as well 🎉</p>
+                </div>
+            </div> -->
+
+            <div class="faq-item">
+                <div class="faq-question">
+                    <h3>What are the various sessions and activities listed in my hackathon schedule?</h3>
+                    <span class="faq-toggle">+</span>
+                </div>
+                <div class="faq-answer">
+                    <p>It's not all about work—we know you'd love to have some fun along the way! We've got something exciting in store for everyone. These session/s will be worth your time, packed with fun activities that are super cool and engaging. And the best part? You can win prizes!</p>
+                    <p>However, the exact details of the activities will remain a surprise until launch. Stay tuned! 🎉</p>
+                    <p>P.S. All the activities are optional. But we'd love to have you there.</p>
+                </div>
+            </div>
+
+            <div class="faq-item">
+                <div class="faq-question">
+                    <h3>What's the deadline? Will I get an extension if I miss the submission?</h3>
+                    <span class="faq-toggle">+</span>
+                </div>
+                <div class="faq-answer">
+                    <p>The submission window opens on June 15, 2025, at 02:00 PM. You must submit everything as per the guidelines that will be shared by us.</p>
+                    <p>The deadline is June 15, 2025, at 08:00 PM. After this, no further submissions will be accepted, and there will be no deadline extensions.</p>
+                </div>
+            </div>
+
+            <div class="faq-item">
+                <div class="faq-question">
+                    <h3>Team Size</h3>
+                    <span class="faq-toggle">+</span>
+                </div>
+                <div class="faq-answer">
+                    <p>1–3 people.</p>
+                    <p>Fly solo, pair up, or add a third friend. Three is the hard cap.</p>
+                </div>
+            </div>
+
+            <div class="faq-item">
+                <div class="faq-question">
+                    <h3>Tools & Tech</h3>
+                    <span class="faq-toggle">+</span>
+                </div>
+                <div class="faq-answer">
+                    <p>Anything goes.</p>
+                    <p>Pick whatever stack solves your problem. Just list each tool in your project's README and say what it does.</p>
+                </div>
+            </div>
+
+            <div class="faq-item">
+                <div class="faq-question">
+                    <h3>Mentorship during hackathon</h3>
+                    <span class="faq-toggle">+</span>
+                </div>
+                <div class="faq-answer">
+                    <p>DIY approach.</p>
+                    <p>No assigned mentors. Responsible AI use is fine, but be ready to walk us through every line of your code.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <script src="script.js"></script>
+</body>
+</html> 
