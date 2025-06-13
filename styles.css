@@ -365,52 +365,6 @@ th {
     transform: rotate(45deg);
 }
 
-/* Judging Criteria Section */
-.judging-container {
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 0 1rem;
-}
-
-.judging-container > p {
-    text-align: center;
-    margin-bottom: 2rem;
-    font-size: 1.1rem;
-}
-
-.criteria-group {
-    margin-bottom: 2rem;
-    padding: 1.5rem;
-    background-color: #f8f8f8;
-    border-radius: 10px;
-    border: 1px solid #000;
-}
-
-.criteria-group h3 {
-    color: #cc0000;
-    margin-bottom: 1rem;
-    font-size: 1.2rem;
-}
-
-.criteria-group ul {
-    list-style-type: none;
-    padding-left: 1rem;
-}
-
-.criteria-group li {
-    margin-bottom: 0.8rem;
-    position: relative;
-    padding-left: 1.5rem;
-}
-
-.criteria-group li:before {
-    content: "•";
-    color: #cc0000;
-    position: absolute;
-    left: 0;
-    font-size: 1.2rem;
-}
-
 /* Prizes Section */
 .prizes-container {
     max-width: 800px;
@@ -507,19 +461,6 @@ th {
         padding: 1rem;
     }
 
-    .judging-container {
-        padding: 0 0.5rem;
-    }
-
-    .criteria-group {
-        padding: 1rem;
-        margin-bottom: 1.5rem;
-    }
-
-    .criteria-group h3 {
-        font-size: 1.1rem;
-    }
-
     .prizes-container {
         padding: 0 0.5rem;
     }
@@ -587,24 +528,6 @@ th {
     
     .faq-question, .faq-answer.active {
         padding: 0.8rem;
-    }
-
-    .judging-container > p {
-        font-size: 1rem;
-    }
-
-    .criteria-group {
-        padding: 0.8rem;
-        margin-bottom: 1rem;
-    }
-
-    .criteria-group h3 {
-        font-size: 1rem;
-    }
-
-    .criteria-group li {
-        font-size: 0.9rem;
-        margin-bottom: 0.6rem;
     }
 
     .prize-group {
