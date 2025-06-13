@@ -209,14 +209,17 @@ body {
 /* Set specific column widths for schedule table */
 #schedule th:nth-child(1), #schedule td:nth-child(1) {
     width: 30%;
+    text-align: center;
 }
 
 #schedule th:nth-child(2), #schedule td:nth-child(2) {
     width: 40%;
+    text-align: center;
 }
 
 #schedule th:nth-child(3), #schedule td:nth-child(3) {
     width: 30%;
+    text-align: center;
 }
 
 /* Set specific column widths for teams table */
