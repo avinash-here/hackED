@@ -143,7 +143,7 @@ body {
 
 /* Section Styles */
 .section {
-    padding: 4rem 5%;
+    padding: 8rem 5% 4rem;
 }
 
 .section h2 {
@@ -661,5 +661,152 @@ th {
     
     #teams h3 {
         padding-left: 1%;
+    }
+}
+
+/* Problem Statements Page Styles */
+.problem-statements-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 1rem;
+}
+
+.problem-card {
+    background-color: #f8f8f8;
+    border: 1px solid #000;
+    border-radius: 10px;
+    padding: 2rem;
+    margin-bottom: 2rem;
+}
+
+.problem-card h3 {
+    color: #cc0000;
+    margin-bottom: 1.5rem;
+    font-size: 1.5rem;
+}
+
+.problem-items {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+}
+
+.problem-item {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 1.5rem;
+    transition: transform 0.3s ease;
+}
+
+.problem-item:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+.problem-item h4 {
+    color: #000;
+    margin-bottom: 1rem;
+    font-size: 1.2rem;
+}
+
+.problem-item p {
+    color: #666;
+    margin-bottom: 1.5rem;
+    line-height: 1.6;
+}
+
+.problem-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 1rem;
+}
+
+.problem-header h4 {
+    margin: 0;
+    flex: 1;
+}
+
+.problem-link {
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    background-color: #cc0000;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: 600;
+    transition: all 0.3s ease;
+    border: 1px solid transparent;
+    white-space: nowrap;
+}
+
+.problem-link:hover {
+    background-color: #fff;
+    color: #cc0000;
+    border: 1px solid #cc0000;
+}
+
+.back-home-container {
+    position: fixed;
+    top: 80px;
+    left: 20px;
+    z-index: 100;
+}
+
+.back-home-btn {
+    display: inline-block;
+    padding: 0.8rem 1.5rem;
+    background-color: #000;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: 600;
+    transition: all 0.3s ease;
+    border: 1px solid transparent;
+}
+
+.back-home-btn:hover {
+    background-color: #fff;
+    color: #000;
+    border: 1px solid #000;
+}
+
+@media (max-width: 768px) {
+    .problem-card {
+        padding: 1.5rem;
+    }
+
+    .problem-items {
+        grid-template-columns: 1fr;
+        gap: 1.5rem;
+    }
+
+    .problem-item {
+        padding: 1.2rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .problem-card {
+        padding: 1rem;
+    }
+
+    .problem-card h3 {
+        font-size: 1.3rem;
+    }
+
+    .problem-item h4 {
+        font-size: 1.1rem;
+    }
+
+    .problem-link {
+        padding: 0.6rem 1.2rem;
+        font-size: 0.9rem;
+    }
+
+    .back-home-btn {
+        padding: 0.8rem 1.6rem;
+        font-size: 0.9rem;
     }
 } 
