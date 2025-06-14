@@ -1,315 +1,145 @@
-Group Name,Name,Student Code
-InsightCrafters,Adithya K,iitg_ds_2501883
-InsightCrafters,Princee Sinha ,iitg_ds_2501180
-InsightCrafters,Anubhav Singh ,iitg_ds_2501220
-DataForge,Mahaprasad Acharjee,iitg_ds_25012074
-DataForge,Kartheeka Repalle, iitg_ds_2501198
-DataForge,Suman Banerjee ,iitmcs2406181
-StatScope,Anumasa Rahul ,iitrprai_2410699
-StatScope,Rajnish Kumar Choudhary ddddddd ,IITMCS_24061183
-StatScope,K Harshith Reddy,IITG_DS_2501003
-QueryMatrix,Jashwanth.N, iitrpr_ai_25010240
-QueryMatrix,Mohd Amaan,iitg_ds_25011952
-QueryMatrix,Sanyam Kunwar,iitrprai_24082758
-InsightPulse,Abhishek singh ,iitg_ds_2505092
-InsightPulse,Manan jain, iitg_ds_2505248 
-InsightPulse,DM GOPI KRISHNA ,iitg_ds_2505087
-DataLogix,Abhay shanker singh,2503037
-DataLogix,VAKEEL RAKESH ,iitg_aiml_2503815
-DataLogix,Sachin Verma ,iit_aiml_2503762
-Visionary Analysts,Aman Joshi ,iit_ds_2505202
-Visionary Analysts,Swayam Bipinchandra Solanki,iitg_aiml_2503820
-Visionary Analysts,Dhruv,iitg_aiml_2503390
-Clarity Crew,Anusraj C R,iitg_aiml_2503804
-Clarity Crew,Vivekanand Chaturvedi ,iitg_aiml_25030307
-Clarity Crew,vishesh kushwaha,IITG_AIML_2503685
-TrendTrackers,kalvabhavik ,iitg_ds_2505262
-TrendTrackers,Pallavi dondapati ,iitg_aiml_2503414
-TrendTrackers,Marupilli VenkataKalyan,iitg_aiml_2503945
-MetricsMind,Ritesh Kumar Chaurasia,iitg_ds_2505107
-MetricsMind,Srinivas Balusupati,iitg_aiml_25030141
-MetricsMind,Sarthak Srivastava , iitg_aiml_2503873
-PivotForce,Shashank Shekhar,iitg_aiml_25030235
-PivotForce,Soumya Ranjan Pani,25011292
-PivotForce,Rajpal Parmar,Iit rpr_ai_250110439
-Precision Analysts,Raman Chauhan ,IITG_AIML_2503332
-Precision Analysts,Param Varsheshbhai Shah,iitg_ds_25011487
-Precision Analysts,Deepanshu Pawar,iitg_ds_2505135
-InsightLab,Shravan H N,iitg_ds_25011845
-InsightLab,Ved Sojitra,iitrprai_24081577
-InsightLab,Saravana T S,IITG_AIML_25030103
-Sigma Insights,Purvansh dave,iitg_ds_25011383
-Sigma Insights,shubham kumar, iitrprai_2409269
-Sigma Insights,Munigala Rishika ,iitg_aiml_2503228
-Pattern Hunters,Shiladitya Roy, iitg_aiml_25030131
-Pattern Hunters,Ratesh,iitg_ds_2501072
-Pattern Hunters,Molly Arora ,iitmcs_2406338
-CoreData,Bhavsar Shivam Zulesh,iitg_aiml_2503423
-CoreData,vikas boura,iitrprai_24091468
-CoreData,Suresh,iitmcs_24061109
-Nexus Analytics,Saurav Mahato ,iitg_ds_2505277
-Nexus Analytics,Somaditya Biswas,iitg_35003
-Nexus Analytics,YESHWANT.G.N,iitg_aiml_2503765
-DataVerse,Sagar kaushik,iitg_ds_25011219
-DataVerse,Anjana B Nair,iitg_ds_2501189
-DataVerse,Praneeth Kumar veldandi ,iitg_ds_2501175
-Model Builders,Aditi Sarkar ,iitg_ds_2505165
-Model Builders,Sunny Marthak,iitg_ds_25011256
-Model Builders,Suryansh Mishra,iitrprai_24091720
-Insight Architects,Vivek Dixit,iitrprai_2410673
-Insight Architects,Deepak GM ,IITMCS_2406253
-Insight Architects,Pulkit Malhotra,iitg_aiml_25030136
-CleanData Crew,Mohd Sahil Nawaz ,iitg_aiml_2503179
-CleanData Crew,Hiya Nag ,iitrprai_24092035
-CleanData Crew,P Ganesh Kumar,iitg_aiml_25030142
-StatFlow,Ichhabal Singh,iitmcs_2406148
-StatFlow,Prasanjit Lal,iitg_ds_2501783
-StatFlow,Anuj Sangwan ,iitg_ds_2505207
-InsightLens,Satya prabhas,iitg_ds_2501218
-InsightLens,Shekar Ch,iitg_aiml_2503657
-InsightLens,G Dhanush Ram ,iitg_ds_2505238
-Metric Minds,Prajwal,Iitg_aiml_25030066
-Metric Minds,Vijay Gupta, iitrprai_24082769
-Metric Minds,Yash Jayeshbhai Patel,iitrprai_24081738
-Trend Analysts,Nagula Suprika,iitg_ds_2501070
-Trend Analysts,Aditya Tiwari,iitg_ds_2501219
-Trend Analysts,Charan Tej S K,iitg_aiml_2503722
-InsightX,Harshvardhan singh kotecha,Iitg_ds_2505016
-InsightX,Kamsani Sampath Reddy,iitg_aiml_2503331
-InsightX,Rohan M L,iitg_aiml_2503350
-Deep Dive Analysts,Dharani KS ,iitg_ds_2505077
-Deep Dive Analysts,dhruv Gupta,dhruv gupta
-Deep Dive Analysts,Ankit Topno,iitg_ds_25011131
-DataSynth,Achuki Saini,iitrprai_24091104
-DataSynth,Anurag Chakraborty ,iitg_aiml_2503695
-DataSynth,Kumari Anjali ,25030008
-ClariTech,Vennela,iitg_ds_25012302
-ClariTech,Arshad Godhrawala,iitg_ds_25012263
-ClariTech,Deekshan Mahanta,iitg_ds_25011425
-StatSharp,Sounak Chowdhury,iitrpr_ai_25010214
-StatSharp,Saksham Agnihotri, iitg_ds_2501154 
-StatSharp,Rithwik K R,iitg_aiml_2503888 
-InsightGrid,Kothaiharinii S,iitg_aiml_25030047
-InsightGrid,Anindita Adhikari,iitmcs_24061033
-InsightGrid,Mohan Acharya, iitg_ds_2501155 
-AnalytiCore,Prashant Maan,iitg_ds_25011685
-AnalytiCore,Abhinesh Dwivedi,iit_ds_2505252
-AnalytiCore,Raghvendra Verma,iitg_aiml_2503370
-Vision Metrics,Vanga Shashank Goud ,iitrpr_aiiitrpr_ai_25010300
-Vision Metrics,Kiran Laxman Shinde,iitrprai_24091613
-Vision Metrics,Faizan Farhad ,iitg_aiml_25030374
-Data Tacticians,Amit Singh ,iitg_aiml_2503759
-Data Tacticians,Shrawani Gulkari ,none
-Data Tacticians,Mamta Yadav,iitrprai_24082146
-Predictive Path,Vaibhav Shaw,Strikermann23
-Predictive Path,Manan Babubhai Prajapati,iitrprai_24082695
-Predictive Path,Samruddhi Vishwasrao ,iitg_aiml_25030443
-CoreInsight,Roshan Khichi,iitg_aiml_25030253
-CoreInsight,Arundhati jadhav ,Python 
-CoreInsight,Animesh Raj,IITG_AIML_2503778
-The Analysis Unit,Drishti Goel, iitg_ds_2501914 
-The Analysis Unit,Sheetal Pandey,iitg_aiml_2503782
-The Analysis Unit,Bhavya Singh Baghel ,iitg_amg_25030364
-SenseMakers,Faizan Raza Akbar Khan,iitrprai_24081041
-SenseMakers,Junaid Ahmed war,Juni
-SenseMakers,Sanjarang Brahma ,Iitg_AIML_2503226
-DataScope,Alina Sayyad ,IITMCS_2406149 
-DataScope,swarnim gupta,iitrprai_24082134
-DataScope,krishna dubey,iitmcs_24091560
-Forecast Foundry,Siddhikesh Arvind Gavit,iitg_aiml_2503837
-Forecast Foundry,Anushka reddy,iitrprai_24081903
-Forecast Foundry,Mitanshi khanchandani ,Iitmcs2406118
-DataCrafters,Shubhangi,iitmcs_24091692
-DataCrafters,Tushar Vashishth ,iitmcs_24061131
-DataCrafters,Chetan,iitg_aiml_2503583
-Insight Analysts,Syed Mohammed Eliaz Basha,iitg_aiml_25030007
-Insight Analysts,Jai Yadav,IITMCS_24061119
-Insight Analysts,Apoorv Maurya ,Iitg_aiml_2503448
-Trend Minds,Vaibhav Gauraha,IITMCS_24061152
-Trend Minds,Vishwajeet Patil,iitg_aiml_2503161
-Trend Minds,Vikash kumar ,iitrprai_24082783
-The Data Studio,Uday kumar ,iitrprai_24091347 
-The Data Studio,Anish, iitg_aiml_2503660 
-The Data Studio,SUPRIT SUMAN,iitrprai_24082043
-ClarityStack,Om Raj Chaudhary ,IITG_DS_25011782
-ClarityStack,NAVNEET KUMAR,IITMCS_24091562
-ClarityStack,Ravi teja ,iitg_aiml_2503724
-SmartMetrics,Utkarsh Dubey,iitrprai_24081989
-SmartMetrics,Rajveerpall04@gmail.com, iitg_ds_25011375
-SmartMetrics,Karankote Aditya,Iitg_aiml_2503019
-InsightWave,Deepak,iitg_ds_2505203
-InsightWave,Deepak,iitg_aiml_2503907
-InsightWave,Anshita Agrawal ,iitrprai_24091817
-StatSculptors,GUNISETTY JAYACHANDRA,iitg_aiml_25030170
-StatSculptors,Araya Bhagat,iitg_aiml_2503190
-StatSculptors,Anil Reddy ,202217b3626
-DataSage,Abhishek Gupta,iitrprai_2410959
-DataSage,Palagummi Sai Lalith ,iitg_aiml_2503653
-DataSage,Anmol Gokhan,24091626
-Strategic Analysts,Saksham Setia,iitgcs_24061405
-Strategic Analysts,Arnav Milind Rade,iitg_aiml_25030421
-Strategic Analysts,Raghavendra Narayanaswamy ,25030274
-VisionStat,Mohammed Aamir,iitg_ds_25011665
-VisionStat,Ujwal Kumar , iitg_ds_2501893
-VisionStat,Venkat Karthik Jayanthi ,iitrprai_24102155
-Model Makers,Parikshit Singh Rathore ,iitg_aiml_2503120
-Model Makers,Bhupinder ,iitrprai_24102613
-Model Makers,Anameeka Saraf ,iitg_aiml_2503867
-InsightBase,Aditya Singh Chauhan ,iitg_aiml_25030309
-InsightBase,Chaitanya reddy,IITG_AIMl_2503262
-InsightBase,Harsh Kumar,iitrprai_24081886
-MetricVision,Anushka Kaushik ,iitg_ds_2501433
-MetricVision,ANANNYA SHARMA,25030454
-MetricVision,Sahil Kumar Sharma ,iitg_ds_2501580
-Data Catalyst,Abhishek Thakur ,Iitg_aiml_2503559
-Data Catalyst,Mudragada Vishal ,iitropar24102260
-Data Catalyst,Utkarsh tiwari,Iitrprai_24082133
-Analysis Core,Deeksha Chaturvedi,iitg_aiml_25030059
-Analysis Core,Moka Pragna,2410888
-Analysis Core,Srinidhi Dudimetla ,iitg_ds_25012254
-Quant Minds,Saurabh mishra,iitrprai_24102569
-Quant Minds,Md. Sahid Alam,IITRPR_AI_25010876
-Quant Minds,Adarsh Kumar Srivastava ,iitg_ds_2501884
-The Data Code,Shivam Tamrakar,iitrpr_ai_25010737
-The Data Code,Shashank V Sonar,IITRPRAI_24102222
-The Data Code,Umesh Chandra ,iitrpr_ai_25010345
-InsightChain,Arpit Singh ,IITG_DS_25012006
-InsightChain,PIRANGI SUKANYA ,iitrpr_ai_25010063
-InsightChain,Harshwardhan Singh Chouhan,iitg_ds_25011597
-DashDevs,Anjaneya Mohapatra,iitg_aiml_25030127
-DashDevs,Punya Hajela,iitmcs_24091022
-DashDevs,Mokbul Hossain,mokbul
-DataStrategy,BURRE NEERAJ SAI ,iitmcs_24095803
-DataStrategy,Archana Vishnu Kanse,iitrprai_2410894
-DataStrategy,Rudra Pratap Singh,iitrpr_ai_25010054
-ClarityCoders,Vikash Kumar Gupta,iitg_ds_2501935
-ClarityCoders,Prem dakua ,Iitg_ds_2501423
-ClarityCoders,Sarvesh,iitg_aiml_25030054
-Pattern Analysts,Shiva Shukla,shiva shukla 
-Pattern Analysts,DHARSHAN KUMAR P N,iitmcs_24091515
-Pattern Analysts,DRON,iitrprai_24082283
-CoreStat,Yaswanth Sai mannem,Iitrpr_ai_25010855
-CoreStat,Bhaagwat Sharma ,iitrpr_ai_25010733
-CoreStat,Abhishek Chauhan,iitg_ds_2501810
-InsightIQ,Shaik Anisah Firdaws,iitrpr_ai_25010356
-InsightIQ,Avadhoot Gandhe,iitg_aiml_2503522
-InsightIQ,priyanshu ,2401075
-Precision Insights,Muskan kanaujia ,iitrprai_24081964
-Precision Insights,Priyanka,iitrprai_24081966
-Precision Insights,Himanshu Sharma,iitg_ds_25011098
-StatSolutions,Rangineni Thoyz Vamsi,iitrpr_ai_25010188
-StatSolutions,Aadithya Raghuram M R ,iitrprai_24082049
-StatSolutions,Akshita Jain,iitrprai_24081034
-DataThink,Rishikesh Misal,iitrprai_24081430
-DataThink,AMAN YADAV,iitrprai_24081486
-DataThink,Karan Kumar,IITRPR_AI_25010272
-CleanStat,KULDEEP PANDEY,iitrpr_ai_25010916
-CleanStat,Sonu Rathod ,iitmcs_24061105
-Accuracy Avengers,Kallam Jashwanth,iitrprai_2410511
-Accuracy Avengers,Tadakamalla Sai Sree,iitrprai_2410506
-Analytics Alley,Mahesh Mahato,pd01_52015
-Analytics Alley,Anas Zaki,pb01_52019
-Analytics Alley,Ashwin Kumar,pds25_05004
-Beyond Numbers,Vijaya Lekha Rajesh Kumar,iitrprai_24091091
-Beyond Numbers,Farhan Ahmad Iftakhar,iitrprai_24091090
-Chart Champions,Sagar chittaragi,iitg_ds_2501258
-Chart Champions,Anurag sharma,iitg_ds_25011244
-Chart Champions,Gopi krishna,iitg_ds_2505087
-Clarity Seekers,Abhinav Kumar,iitrprai_24081001
-Clarity Seekers,Meenakshi Rakesh Par,iitrprai_2408166
-Crisp Curators,Mehtaab kohli,iitmcs_2406139
-Crisp Curators,Alina Sayyad,iitmcs_2406149
-Crisp Curators,Molly Arora,iitmcs_2406338
-Dashboard Wizards,Aditya Pimpale,iitg_aiml_25030006
-Dashboard Wizards,Pranjal Thakare,iitg_aiml_2503727
-Dashboard Wizards,Chaithra Shree H S,iitg_aiml_2503460
-Data Delvers,AMAN JAISWAL,iitrpr_ai_25010434
-Data Delvers,SARTHAK RAHA,iitrpr_ai_25010348
-Data Detectives,Vidushi Garg,iitrpr_ai_25010755
-Data Detectives,Saksham Rao,iitrpr_ai_25010039
-Data Detectives,Harmannat Kaur,iitrpr_ai_25010911
-Data Disciples,Marvin Remiigius,iitg_ds_2501360
-Data Disciples,Aman Vishwakarma,iitg_ds_2501302
-Data Disciples,Prasanth A,iitg_ds_25012192
-DataWave,SHUBHAM MALVIYA,iitmcs_2406192
-DataWave,KHUSHI BOTHARA,iitmcs_2406251
-Decision Drillers,Tarra Nikhitha,iitg_aiml_2503562
-Decision Drillers,Sunkara Ajay Kumar,iitg_aiml_2503629
-Decision Hive,Atharv Mishra,iitg_ds_25012181
-Decision Hive,Pradyuman Bhist,iitg_ds_25012168
-Decision Hive,Shivendu Kumar,iitg_ds_25011094
-DeepData,Abhyuday Singh,iitg_ds_25011613
-DeepData,Aayushee Mathur,iitg_ds_25011919
-Excel Erudites,Ahir Barman Maji,iitg_ds_2501922
-Excel Erudites,Swastik Sengupta,iitg_ds_2501965
-Figure Forge,Usham Roy,iitrpr_ai_25010501
-Figure Forge,Anwesha Roy,iitrpr_ai_25010503
-Filter Force,puru yadav,iitrprai_24091588
-Filter Force,Harsh vardhan Khare,iitrprai_24102275
-Forecast Force,Abhijeet Kumar Dwivedi,iitrprai_24081860
-Forecast Force,Aman Mishra,iitrprai_24081861
-Info Inquisitors,Ishan Kapoor,iitg_aiml_2503897
-Info Inquisitors,Malya Kapoor,iitg_aiml_25030028
-InfoInterpreters,Shruti Kumbhardare,iitg_ds_2501099
-InfoInterpreters,"Debangan Ghosh ,Dipayan Ghosh","iitg_ds_2501681,iitg_ds_25011052"
-InfoInterpreters,Rakesh vallepu,iitg_ds_2501304
-Insight Illuminators,Sakshi shelke,iitg_ds_25011563
-Insight Illuminators,Khush Aghera,iitg_ds_25011364
-Insight Illuminators,Yash Kumar,iitg_ds_25011737
-Insight Instinct,Roopesh Ranjan,iitrprai_24091271
-Insight Instinct,Kumari Ankita,iitrprai_24091270
-Insight Instinct,Swarnima Kumari,iitrprai_24091270
-Insight Integrators,Sharv Mehta,iitmcs_24091521
-Insight Integrators,Alina Sayyad,iitmcs_2406149
-Insight Integrators,Molly Arora,iitmcs_2406338
-Interpretive Edge,Shubham Trivedi,iitmcs_24091573
-Interpretive Edge,Shiva Sukumar,iitmcs_24091583
-Interpretive Edge,Abhishek yadav,iitmcs_24091690
-Lab Rats of Data,Sanjay Anand M,iitrpr_ai_25010852
-Lab Rats of Data,Vignesh G A,iitrpr_ai_25010574
-Logical Layers,Navya Mehta,iitrprai_24082534
-Logical Layers,Abhay,iitrprai_24082101
-NextGen Analysts,Deepanshu Monga,iitrpr_ai_25010783
-NextGen Analysts,Anushka Reddy,iitrprai_24081903
-Number Navigators,Khushi S Sorathia,iitg_ds_2501735
-Number Navigators,Diya K Bhat,iitg_ds_25011937
-Number Ninjas,Vrishty Gothwal,iitg_ds_2501078
-Number Ninjas,Izram Sana,iitg_ds_2501152
-Number Ninjas,Kalyani Singh,Iitg_ds_2501413
-Numeric Nomads,Priyanka,Iitmcs_240688
-Numeric Nomads,Bhawesh Agrawal,iitmcs_24061023
-Numeric Nomads,Meet Jani,iitmcs_2406132
-Pattern Mappers,Sakshi,IITG_DS_2505233
-Pattern Mappers,Shruti Jain,IITG_DS_2505254
-Precision Pixels,Om Pandey,iitg_ds_25011190
-Precision Pixels,Darshan Chhatbar,iitg_ds_25011905
-Query Commanders,Pavan S,iitg_aiml_2503213
-Query Commanders,Afzal Shaquib,iitg_aiml_2503153
-Query Commanders,Om Bilaiya,iitg_aiml_2503210
-Sheet Squad,Aman Shukla,iitrprai_2410930
-Sheet Squad,Aditya Chauhan,iitrprai_24081227
-Signal Squad,Divyansh jain,24091082
-Signal Squad,Ojasvi goswami,iitrprai_24091415
-Stat Sages,Pamir Dhar Chowdhury,iitrprai_24081977
-Stat Sages,Anomitro Sarker,iitrprai_24082077
-Stat Solutions,Satwik Myneni,iitg_ds_2501452
-Stat Solutions,Suhas BM,iitg_ds_25011710
-The Analyzers,Anmol Negi,iitg_aiml_2503755
-The Analyzers,Ashwina Prasad,iitg_ds_2505100
-The Clean Coders,Shrey Tripathi,iitrpr_ai_25010361
-The Clean Coders,Fariz Anjum,iitrprai_24082147
-The Clean Coders,Neelesh Mishra,iitrprai_24092527
-Trend Trackers,VIKAS KUMAR PAL,iitrprai_24092442
-Trend Trackers,Abhiram Chowdary,iitrprai_24091557
-Trend Trackers,Vinay Kumar,iitrprai_2409275
-Truth Transformers,Ayaan Shaikh,iitg_aiml_25030384
-Truth Transformers,Dhevessh Pujari,iitg_aiml_25030389
-Truth Transformers,Faizan Farhad,iitg_aiml_25030374
-Value Voyagers,Avni Jain,iitg_aiml_2503704
-Value Voyagers,Harsh Kathiriya,iitg_aiml_2503194
-Visual Vantage,Srinivas,iitrpr_ai_24091235
-Visual Vantage,Hasvitha,iitrpr_ai_25010391
-Visual Vantage,Srija,iitrpr_ai_25010578
-Visual Voyagers,Paras,iitg_aiml_25030218
-Visual Voyagers,Lokeanth Ghosh,IITG_AIML_25030049
-Visual Voyagers,Priyanshu Yadav,IITG_AIML_25030370
+Name,Student Code (lowercase),Team Name
+Raghvendra Verma,iitg_aiml_2503370,Byte Benders
+Sreejith R,iitg_ds_25011079,
+Aayush Kumar Dubey,iitg_ds_25012091,
+Suhas BM,iitg_ds_25011710,Neural Nomads
+Aryan Singh Guleria,iitg_ds_25011107,
+Suyash Chourasia,iitg_ds_2501768,
+Princee Sinha,iitg_ds_2501180,Data Druids
+Yogesh Kumar,25011029,
+Daivat sweta,iitg_ds_2501414,
+Anurag Sharma,iitg_ds_25011041,The Null Set
+Sushmitha S,iitg ds 2501407,
+Arshad Jamil,iitg_ds_25011151,
+Soham Das,iitg_ds_25012117,Model Mavericks
+Chanchal Arya,iitg_ds_25011141,
+Satwik Myneni,iitg_ds_2501452,
+Raju Biswas,IIG_DS_25012193,Code to Conclusions
+PARAM VARSHESHBHAI SHAH,iitg_ds_25011487,
+Yash Chaurasia,iitg_ds_2501050,
+Amogh,25011363,Python Prophets
+DHARSHAN KUMAR P N,iitmcs_24091515,
+Aditya Dubey,I don't remember,
+Anjaneya Mohapatra,iitg_aiml_25030127,Feature Fighters
+EKLAVYA SINGH,iitg_ds_2501184,
+Ravi teja,iitg_aiml_2503724,
+Utkarsh Dubey,iitrprai_24081989,Gradient Gang
+Rajveerpall04@gmail.com,iitg_ds_25011375,
+Deepak,iitg_ds_2505203,
+Deepak,iitg_aiml_2503907,Data Dreamers
+Anshita Agrawal,iitrprai_24091817,
+GUNISETTY JAYACHANDRA,iitg_aiml_25030170,
+Anil Reddy,202217b3626,Mean Squared Squad
+Abhishek Gupta,iitrprai_2410959,
+Palagummi Sai Lalith,iitg_aiml_2503653,
+Anmol Gokhan,24091626,Logistic Legends
+Arnav Milind Rade,iitg_aiml_25030421,
+Raghavendra Narayanaswamy,25030274,
+Mohammed Aamir,iitg_ds_25011665,Random Foresters
+Ujwal Kumar,iitg_ds_2501893,
+Venkat Karthik Jayanthi,iitrprai_24102155,
+Bhupinder,iitrprai_24102613,Overfit Avengers
+Anameeka Saraf,iitg_aiml_2503867,
+Aditya Singh Chauhan,iitg_aiml_25030309,
+Chaitanya reddy,IITG_AIMl_2503262,Outlier Hunters
+Harsh Kumar,iitrprai_24081886,
+Anushka Kaushik,iitg_ds_2501433,
+ANANNYA SHARMA,25030454,Clustermaniacs
+Sahil Kumar Sharma,iitg_ds_2501580,
+Abhishek Thakur,Iitg_aiml_2503559,
+Mudragada Vishal,iitropar24102260,The Confidence Interval
+Utkarsh tiwari,Iitrprai_24082133,
+Deeksha Chaturvedi,iitg_aiml_25030059,
+Moka Pragna,2410888,Pattern Predators
+Srinidhi Dudimetla,iitg_ds_25012254,
+Saurabh mishra,iitrprai_24102569,
+Md. Sahid Alam,IITRPR_AI_25010876,Data Dominators
+Shivam Tamrakar,iitrpr_ai_25010737,
+Shashank V Sonar,IITRPRAI_24102222,
+Umesh Chandra,iitrpr_ai_25010345,Insight Igniters
+Arpit Singh,IITG_DS_25012006,
+PIRANGI SUKANYA,iitrpr_ai_25010063,
+Harshwardhan Singh Chouhan,iitg_ds_25011597,The Predictors
+Anjaneya Mohapatra,iitg_aiml_25030127,
+Punya Hajela,iitmcs_24091022,
+Mokbul Hossain,mokbul,Correlation Crew
+Archana Vishnu Kanse,iitrprai_2410894,
+Rudra Pratap Singh,iitrpr_ai_25010054,
+Vikash Kumar Gupta,iitg_ds_2501935,Smart Set
+Prem dakua,Iitg_ds_2501423,
+Sarvesh,iitg_aiml_25030054,
+Shiva Shukla,shiva shukla,Algo Architects
+DHARSHAN KUMAR P N,iitmcs_24091515,
+DRON,iitrprai_24082283,
+Yaswanth Sai mannem,Iitrpr_ai_25010855,Model Miners
+Bhaagwat Sharma,iitrpr_ai_25010733,
+Abhishek Chauhan,iitg_ds_2501810,
+Shaik Anisah Firdaws,iitrpr_ai_25010356,The Precision Pack
+priyanshu,2401075,
+Muskan kanaujia,iitrprai_24081964,
+Priyanka,iitrprai_24081966,Causal Crusaders
+Himanshu Sharma,iitg_ds_25011098,
+Aadithya Raghuram M R,iitrprai_24082049,
+Akshita Jain,iitrprai_24081034,404 Found Data
+Rishikesh Misal,iitrprai_24081430,
+AMAN YADAV,iitrprai_24081486,
+Karan Kumar,IITRPR_AI_25010272,NaN Ninjas
+KULDEEP PANDEY,iitrpr_ai_25010916,
+Sonu Rathod,iitmcs_24061105,
+Aneesh M Bhat,iitg_ds_25011320,The Qubit Quants
+Aditya Raj,iitg_ds_2501791,
+Ankita Ambastha,iitg_ds_25011480,
+Shivank Chakraborty,iitg_ds_2501068,Dataframe Divas
+Bhavika,iitg_ds_2501113,
+Pratham,iitg_ds_2501113,
+Saurabh Dhole,iitg_ds_2501610,Stack Overflowers
+Bharat Mandge,iitg_ds_25011465,
+Aditya Chorgade,iitg_ds_25011979,
+Kshitij Waikar,iitg_ds_25011445,We Got Your Data
+Jayashree Srivastava,iitg_ds_2501388,
+Akash Baghrecha,iitg_ds_25011110,
+Vanshaj P Mohan,iitg_ds_2501328,InCodents Happen
+Megha Gupta,iitg_ds_25012176,
+Abhishek Kumar Choudhary,IITG_DS_25011584,Missing No Values
+Abhishek Kumar,IITG_DS_25011354,
+Sourav Mahanta,IITG_DS_25011912,Visioneers
+SOURAV MAHANTA,IITG_DS_25011912,
+AKANSHA CHOURASIYA,IITG_DS_2501617,
+Shiva Sukumar,iitmcs_24091583,Quantified Impact
+Shubham Trivedi,iitmcs_24091573,
+Abhishek Yadav,iitmcs_24091690,
+Sakshi shelke,iitg_ds_25011563,Neural Nexus
+Khush Aghera,iitg_ds_25011364,
+Yash Kumar,iitg_ds_25011737,
+Sourav Mahanta,IITG_DS_25011912,AI Vanguard
+Akansha Chourasiya,IITG_DS_2501617,
+,,
+Srinivas,iitrpr_ai_24091235,Infinity Insights
+Hasvitha,iitrpr_ai_25010391,
+Srija,iitrpr_ai_25010578,
+Akanksha chourasiya,iitg_ds_2501617,Hyperparameters
+Sourav Mahanta,25011912,
+Mehtaab kohli,iitmcs_2406139,Quantum Query
+Alina Sayyad,.,
+Molly Arora,,
+Abhishek Kumar Choudhary,IITG_DS_25011584,MindMesh
+Abhishek Kumar,IITG_DS_ 25011354,
+Aman Shukla,iitrprai_2410930,Echo Coders
+Aditya Chauhan,iitrprai_24081227,
+Kallam Jashwanth,iitrprai_2410511,Insight Engine
+Tadakamalla Sai Sree,iitrprai_2410506,
+Sai Sree Tadakamalla,iitrprai_2410506,Truth Seekers
+Kallam Jashwanth,iitrprai_2410511,
+Satwik Myneni,iitg_ds_2501452,Data Whisperers
+Suhas BM,iitg_ds_25011710,
+Atharv Mishra,iitg_ds_25012181,Deep Divers
+Pradyuman Bhist,iitg_ds_25012168,
+Shivendu Kumar,iitg_ds_25011094,
+Sakshi,IITG_DS_2505233,Insight Hustlers
+Shruti Jain,IITG_DS_2505254,
+Divyansh jain,24091082,The Discovery Lab
+Ojasvi goswami,iitrprai_24091415,
+Abhinav Kumar,iitrprai_24081001,Signal Detectives
+Meenakshi Rakesh Par,iitrprai_2408166,
+Abhyuday Singh,iitg_ds_25011613,Truth in Numbers
+Aayushee Mathur,iitg_ds_25011919,
